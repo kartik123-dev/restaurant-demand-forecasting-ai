@@ -1,0 +1,10 @@
+Ingredient,Required,Available,Shortage,Status,Supplier,Lead Time (days),Days Until Expiry,Priority
+Flour (g),18600,15000,3600,ORDER NEEDED,Fresh Mills,2,30,MEDIUM
+Cheese (g),11090,8000,3090,ORDER NEEDED,Dairy Supply,3,5,HIGH
+Sauce (g),10840,12000,0,Sufficient,Food Supplies,2,60,LOW
+Burger Buns (pieces),47,60,0,Sufficient,Local Bakery,1,2,CHECK EXPIRY
+Patties (pieces),47,35,12,ORDER NEEDED,Frozen Foods,4,45,HIGH
+Pasta (g),5100,4000,1100,ORDER NEEDED,Grain Store,2,180,MEDIUM
+Rice (g),9000,10000,0,Sufficient,Grain Store,2,180,LOW
+Vegetables (g),6000,4500,1500,ORDER NEEDED,Veggie Market,1,3,MEDIUM
+Spices (g),900,1200,0,Sufficient,Spice House,3,365,LOW

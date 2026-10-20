@@ -1,0 +1,10 @@
+Ingredient,Required,Available,Shortage,Status
+Flour (g),18600,15000,3600,ORDER NEEDED
+Cheese (g),11090,8000,3090,ORDER NEEDED
+Sauce (g),10840,12000,0,Sufficient
+Burger Buns (pieces),47,60,0,Sufficient
+Patties (pieces),47,35,12,ORDER NEEDED
+Pasta (g),5100,4000,1100,ORDER NEEDED
+Rice (g),9000,10000,0,Sufficient
+Vegetables (g),6000,4500,1500,ORDER NEEDED
+Spices (g),900,1200,0,Sufficient
